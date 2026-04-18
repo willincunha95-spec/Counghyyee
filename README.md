@@ -2,9 +2,11 @@
 
 # ⚡ Olá, eu sou Willian da Cunha Lima
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+Java;Especialista+em+Spring+Boot;Estudante+de+ADS+no+Mackenzie)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=800&lines=Desenvolvedor+Backend+Java;Especialista+em+Spring+Boot;Estudante+de+ADS+no+Mackenzie)
 
-<img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/image_fd1ee7.png" width="550" alt="Banner Profile">
+<img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/image_fd1ee7.png" width="700" alt="Banner Personalizado">
+
+<br>
 
 **Desenvolvedor Backend | Jovem Aprendiz @ Mercado Livre | Freelancer**
 
@@ -12,7 +14,15 @@
 
 ### 🛠️ Ferramentas que eu utilizo:
 
-<img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/java.png" width="85" /> <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/python.png" width="85" /> <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/html-5.png" width="85" /> <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/css-3.png" width="85" /> <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/docker.png" width="85" /> <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/mysql.png" width="85" /> <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/postgre.png" width="85" />
+<p>
+  <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/java.png" width="90" />
+  <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/python.png" width="90" />
+  <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/html-5.png" width="90" />
+  <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/css-3.png" width="90" />
+  <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/docker.png" width="90" />
+  <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/mysql.png" width="90" />
+  <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/postgre.png" width="90" />
+</p>
 
 </div>
 
