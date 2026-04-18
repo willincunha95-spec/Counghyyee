@@ -2,9 +2,9 @@
 
 # ⚡ Olá, eu sou Willian da Cunha Lima
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+Java;Especialista+em+Spring+Boot;Estudante+de+ADS+no+Mackenzie)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=800&lines=Desenvolvedor+Backend+Java;Especialista+em+Spring+Boot;Estudante+de+ADS+no+Mackenzie)
 
-<img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/image_fd1ee7.png" width="550" alt="Banner Profile">
+<img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/image_fd1ee7.png" width="700" alt="Banner Profile">
 
 **Desenvolvedor Backend | Jovem Aprendiz @ Mercado Livre | Freelancer**
 
