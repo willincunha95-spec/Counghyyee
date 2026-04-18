@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Willian+da+Cunha+Lima;Desenvolvedor+Backend+Java;Especialista+em+Spring+Boot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Willian+da+Cunha+Lima;Desenvolvedor+Backend+Java;Especialista+em+Spring+Boot" alt="Willian's Typing SVG" />
 
   <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/image_fd1ee7.png" width="550" alt="Banner Profile">
 
@@ -20,37 +20,40 @@
     <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/postgre.png" width="85" alt="PostgreSQL" />
   </p>
 
-</div>
+  <br>
+  <hr>
 
-<br>
-<hr>
+  <div align="left" style="max-width: 850px;">
+    <h3>🚀 Sobre Mim & Carreira</h3>
+    <p>
+      Sou desenvolvedor focado no ecossistema <strong>Java (11/17)</strong>, construindo sistemas robustos com <strong>Spring Boot</strong> e arquiteturas escaláveis. Atualmente, aplico meus conhecimentos na área de <strong>Prevenção de Perdas do Mercado Livre</strong>, onde desenvolvo soluções internas e otimização de processos.
+    </p>
+    <p>
+      Além da atuação corporativa, trabalho como desenvolvedor freelance focado em logística e gestão empresarial. Sou estudante de Análise e Desenvolvimento de Sistemas no <strong>Mackenzie</strong> e busco constantemente dominar tecnologias de nuvem (AWS) e segurança de APIs.
+    </p>
 
-### 🚀 Sobre Mim & Carreira
-Sou desenvolvedor focado no ecossistema **Java (11/17)**, construindo sistemas robustos com **Spring Boot** e arquiteturas escaláveis. Atualmente, aplico meus conhecimentos na área de **Prevenção de Perdas do Mercado Livre**, onde desenvolvo soluções internas e otimização de processos.
+    <h3>📂 Projetos em Destaque</h3>
+    <ul>
+      <li><strong>JR Pesados:</strong> Plataforma completa de logística e transporte desenvolvida para ambiente de produção, focada em gestão de fretes e eficiência operacional.</li>
+      <li><strong>E-commerce Backend:</strong> Sistema escalável com integração de banco de dados, autenticação JWT e regras de negócio complexas.</li>
+      <li><strong>Buildora:</strong> Projeto colaborativo focado em soluções para construção e gestão tecnológica.</li>
+      <li><strong>Sistemas de Gestão:</strong> Experiência no desenvolvimento de ferramentas de inventário e controle administrativo para empresas de médio porte.</li>
+    </ul>
+  </div>
 
-Além da atuação corporativa, trabalho como desenvolvedor freelance focado em logística e gestão empresarial. Sou estudante de Análise e Desenvolvimento de Sistemas no **Mackenzie** e busco constantemente dominar tecnologias de nuvem (AWS) e segurança de APIs.
-
-### 📂 Projetos em Destaque
-* **JR Pesados:** Plataforma completa de logística e transporte desenvolvida para ambiente de produção, focada em gestão de fretes e eficiência operacional.
-* **E-commerce Backend:** Sistema escalável com integração de banco de dados, autenticação JWT e regras de negócio complexas.
-* **Buildora:** Projeto colaborativo focado em soluções para construção e gestão.
-* **Sistemas de Gestão:** Experiência no desenvolvimento de ferramentas de inventário e controle administrativo para empresas de médio porte.
-
-<hr>
-<br>
-
-<div align="center">
+  <hr>
+  <br>
 
   <p>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=willincunha95-spec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willincunha95-spec&layout=compact&theme=tokyonight" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=willincunha95-spec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats do Willian"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willincunha95-spec&layout=compact&theme=tokyonight" alt="Langs do Willian"/>
   </p>
 
   <br>
 
   <p>Vamos nos conectar?</p>
   <a href="https://www.linkedin.com/in/willian-da-cunha-lima-1a1ba1348/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/linkedin.png" width="40" alt="LinkedIn" />
   </a>
 
 </div>
