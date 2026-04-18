@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&height=100&lines=Olá,+eu+sou+Willian+da+Cunha+Lima;Desenvolvedor+Backend+Java;Especialista+em+Spring+Boot;Estudante+de+ADS+no+Mackenzie" alt="Typing SVG" />
+# ⚡ Olá, eu sou Willian da Cunha Lima
 
-<p><strong>Desenvolvedor Backend | Jovem Aprendiz @ Mercado Livre | Freelancer</strong></p>
+![Banner Animado](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&height=50&lines=Backend+Developer+Java)
+
+![Subtítulo Animado](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=Especialista+em+Spring+Boot;Jovem+Aprendiz+@+Mercado+Livre;Freelancer+Logistics+Solutions;Estudante+de+ADS+no+Mackenzie)
 
 <br>
 
-<h3>🛠️ Ferramentas que eu utilizo:</h3>
+**Desenvolvedor Backend | Java & Spring Expert | Cloud & Logistics**
+
+<br>
+
+### 🛠️ Ferramentas que eu utilizo:
 
 <p>
   <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/java.png" width="90" />
