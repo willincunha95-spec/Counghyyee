@@ -15,13 +15,13 @@
 ### 🛠️ Ferramentas que eu utilizo:
 
 <p>
-  <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/java.png" width="90" />
-  <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/python.png" width="90" />
-  <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/html-5.png" width="90" />
-  <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/css-3.png" width="90" />
-  <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/docker.png" width="90" />
-  <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/mysql.png" width="90" />
-  <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/postgre.png" width="90" />
+  <img src="https://raw.githubusercontent.com/willincunha95-spec/willincunha95-spec/main/java.png" width="90" />
+  <img src="https://raw.githubusercontent.com/willincunha95-spec/willincunha95-spec/main/python.png" width="90" />
+  <img src="https://raw.githubusercontent.com/willincunha95-spec/willincunha95-spec/main/html-5.png" width="90" />
+  <img src="https://raw.githubusercontent.com/willincunha95-spec/willincunha95-spec/main/css-3.png" width="90" />
+  <img src="https://raw.githubusercontent.com/willincunha95-spec/willincunha95-spec/main/docker.png" width="90" />
+  <img src="https://raw.githubusercontent.com/willincunha95-spec/willincunha95-spec/main/mysql.png" width="90" />
+  <img src="https://raw.githubusercontent.com/willincunha95-spec/willincunha95-spec/main/postgre.png" width="90" />
 </p>
 
 </div>
@@ -40,8 +40,7 @@ Além da atuação corporativa, trabalho como desenvolvedor freelance focado em 
 * **Buildora:** Projeto colaborativo focado em soluções para construção e gestão tecnológica.
 * **Sistemas de Gestão:** Experiência no desenvolvimento de ferramentas de inventário e controle administrativo para empresas de médio porte.
 
-<hr>
-<br>
+---
 
 <div align="center">
 
@@ -54,7 +53,7 @@ Além da atuação corporativa, trabalho como desenvolvedor freelance focado em 
 **Vamos nos conectar?**
 
 <a href="https://www.linkedin.com/in/willian-da-cunha-lima-1a1ba1348/" target="_blank">
-  <img src="https://raw.githubusercontent.com/willincunha95-spec/Counghyyee/main/linkedin.png" width="40" alt="LinkedIn" />
+  <img src="https://raw.githubusercontent.com/willincunha95-spec/willincunha95-spec/main/linkedin.png" width="40" alt="LinkedIn" />
 </a>
 
 </div>
